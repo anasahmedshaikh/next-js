@@ -1,0 +1,22 @@
+body{
+    background-color: pink;
+}
+ul li{
+    display: inline-block;
+    width: 80px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color:black;
+    color: white;
+    border: solid 2px black;
+    border-radius: 50px;
+}
+.abc{
+    text-decoration: none;
+    color: white;
+}
+#header{
+    position:relative;
+    padding-left: 50vw;
+}
